@@ -3,4 +3,4 @@ This is a server less single page web application to display free and paid conte
 
 TODO:
 - Pending AWS cognito integration
-- Pending Cloud fornt distibution integration with lambda edge
+- Pending Cloud Front distibution integration with lambda@edge
