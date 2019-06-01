@@ -4,7 +4,7 @@
     "version": "2019-04-26T20:53:44Z",
     "title": "MyVideosAPIGW"
   },
-  "host": "[Your Account ID].execute-api.[region].amazonaws.com",
+  "host": "[Your API gateway ID].execute-api.[region].amazonaws.com",
   "basePath": "/dev",
   "schemes": [
     "https"
