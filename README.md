@@ -1,5 +1,11 @@
 # aws-serverless-apigateway-lambda-dynamodb-congnito
-This is a server less single page web application to display free and paid content only for authorized users
+This is a server less single page web application to display free and paid content only for authorized users using AWS services below
+1) API Gateway - Access data from lambda to display it on the website
+2) Lambda - Generate videos response by validating user
+3) DynamoDB - Store user and videos information
+4) S3 -  Host Static Website and store videos
+5) Cloud Front - Serve website and free and paid content
+6) Cogniti - User sign and Login
 
 TODO:
 - Pending AWS cognito integration
