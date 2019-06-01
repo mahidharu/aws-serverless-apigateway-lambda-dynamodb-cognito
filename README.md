@@ -1,5 +1,5 @@
 # aws-serverless-apigateway-lambda-dynamodb-congnito
-This is a server less single page application  to display free and paid content only for authorized users
+This is a server less single page web application to display free and paid content only for authorized users
 
 TODO:
 - Pending AWS cognito integration
