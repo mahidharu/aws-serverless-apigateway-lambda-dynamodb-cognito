@@ -7,6 +7,6 @@ This is a server less single page web application to display free and paid conte
 5) Cloud Front - Serve website and free and paid content
 6) Cognito - User sign and Login
 
-#
+# TODO:
 1) Pending AWS cognito integration
 2) Pending Cloud Front distibution integration with lambda@edge
