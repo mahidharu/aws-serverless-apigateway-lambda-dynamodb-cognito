@@ -1,5 +1,5 @@
 # aws-serverless-apigateway-lambda-dynamodb-congnito
-This is a server less single page web application to display free and paid content only for authorized users using AWS services below
+Serverless single page web application to display free and paid content only for authorized users using below AWS services
 1) API Gateway - Access data from lambda
 2) Lambda - Generate video URL's
 3) DynamoDB - Store user and videos information
