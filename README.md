@@ -8,10 +8,10 @@ Serverless single page web application to display free and paid content only for
 6) Cognito - User sign-up and Login
 
 # Summary
-1) Server less Architecture
+1) Serverless Architecture
 2) Single Page Web application
 3) Huge Traffic Web application
-4) User able to access free and paid content
+4) Users able to access free and paid content
 5) Paid content should be accessed by authorized users
 6) CDN
 
