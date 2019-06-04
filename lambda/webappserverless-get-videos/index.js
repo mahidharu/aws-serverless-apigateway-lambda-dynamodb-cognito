@@ -20,7 +20,7 @@ const twoDays = 2*24*60*60*1000,
 	  expiry = 30*60*1000, // 2 mins
 	  cloudFrontURL = 'Update with your Cloud front urls';
 
-//TODO: Pending aws cognito integration to validate user is logged in or not
+//TODO: Pending aws cognito integration to validate user login
 exports.handler = async (event, context, callback) => {
     if (event.httpMethod === 'OPTIONS') {
 		return Promise.resolve(processResponse(IS_CORS));
